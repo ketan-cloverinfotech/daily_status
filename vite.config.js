@@ -6,5 +6,5 @@ import react from '@vitejs/plugin-react'
 // If you rename the repo, change `base` to '/your-repo-name/'.
 export default defineConfig({
   plugins: [react()],
-  base: '/daily-status-mail/',
+  base: '/daily_status/',
 })
